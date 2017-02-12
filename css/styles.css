@@ -1,0 +1,24 @@
+.bg-image {
+  background: url("https://uproxx.files.wordpress.com/2016/01/ron-swanson.jpg?quality=80") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.heading {
+  font-family: "andale mono";
+  font-size: 40px;
+  color: white;
+  position: relative;
+  top: 485px;
+}
+
+button {
+  position: relative;
+  top: 500px;
+  border-radius: 50pxpx;
+}
+
+
+
+
+
+
